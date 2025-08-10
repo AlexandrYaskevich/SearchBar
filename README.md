@@ -1,3 +1,3 @@
 # React + Vite
 
-Github Page: https://AlexandrYaskevich.github.io/SearchBarReact/
+Github Page: https://AlexandrYaskevich.github.io/SearchBar/
